@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 <img align="right" src="https://github.com/user-attachments/assets/70228c26-ed54-4dc2-a410-909ba7e5ba33" alt="KelingkingBeach" width="400"/>
 
 
-I’m a first-year master’s student of Trusted AI Systems at Wrocław University of Science and Technology and I have also attained a title of bachelor of engineering by graduating Biomedical Engineering on PWr where I wrote my thesis titled: "Design and implementation of online diagnostic tool for inflammatory bowel diseases using machine learning" which can be found on this repository. I am interested in aritificial inteligence, software engineering and volleyball. In addition to my studies, I’m an active member of the BEST Wrocław student organisation that works under the PWr, where I’m developing my soft skills. 
+<p align="justify"> 
+  I’m a first-year master’s student of Trusted AI Systems at Wrocław University of Science and Technology and I have also attained a title of Bachelor of Engineering by graduating Biomedical Engineering (Bioinformatics major) on PWr where I wrote my thesis titled: "Design and implementation of online diagnostic tool for inflammatory bowel diseases using machine learning" which can be found on this repository. I am interested in aritificial inteligence, software engineering and volleyball. In addition to my studies, I’m an active member of the BEST Wrocław student organisation that works under the PWr, where I’m developing my soft skills.
+</p> 
 
 
 ### Fun Fact ⚡
