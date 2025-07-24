@@ -1,4 +1,4 @@
-# Hi, I'm Wojtek 👋
+# Hi, I'm Wojtek! 👋
 
 <!--
 **WMaciejonczyk/WMaciejonczyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,7 +28,7 @@ I’m a first-year master’s student of Trusted AI Systems at Wrocław Universi
 
 I'm a triplet and each one of us pursuits a career in IT-related fields! Feel free to explore their github profiles :)
 - https://github.com/PiotMac
-- [Krzysiu]()
+- https://github.com/KrzysztofMaciejonczyk
 
 ### Contact me 📫
 - maciejonczykw@gmail.com
