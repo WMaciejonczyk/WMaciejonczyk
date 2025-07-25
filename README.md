@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 <p align="justify"> 
-  I’m a first-year master’s student of Trusted AI Systems at Wrocław University of Science and Technology and I have also attained a title of Bachelor of Engineering by graduating Biomedical Engineering (Bioinformatics major) on PWr where I wrote my thesis titled: "Design and implementation of online diagnostic tool for inflammatory bowel diseases using machine learning" which can be found on this repository. I am interested in aritificial inteligence, software engineering and volleyball. In addition to my studies, I’m an active member of the BEST Wrocław student organisation that works under the PWr, where I’m developing my soft skills.
+  I’m a first-year master’s student of Trusted AI Systems at Wrocław University of Science and Technology (PWr) and I earned a Bachelor of Engineering degree in Biomedical Engineering (with a major in Bioinformatics) from PWr, where I wrote my thesis titled <i>Design and Implementation of an Online Diagnostic Tool for Inflammatory Bowel Disease using Machine Learning</i>. The resulting project can be found in my repositories. I am interested in artificial inteligence, software engineering and volleyball. In addition to my studies, I’m an active member of the BEST Wrocław student organisation that works under the PWr, where I’m developing my soft skills.
 </p> 
 
 
